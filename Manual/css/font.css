@@ -1,0 +1,13 @@
+/* Manual font */
+@font-face {
+  font-family: 'Special Elite';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Special Elite'), local('SpecialElite-Regular'), url(../font/SpecialElite.ttf);
+}
+@font-face {
+  font-family: 'stupid';
+  font-style: normal;
+  font-weight: 400;
+  src:url(../font/stupid.ttf);
+}
